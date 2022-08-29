@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/source/static/js/main.93fcc950.js",
-    "index.html": "/github.io/source/index.html",
-    "main.93fcc950.js.map": "/github.io/source/static/js/main.93fcc950.js.map"
+    "main.js": "/source/static/js/main.93fcc950.js",
+    "index.html": "/source/index.html",
+    "main.93fcc950.js.map": "/source/static/js/main.93fcc950.js.map"
   },
   "entrypoints": [
     "static/js/main.93fcc950.js"
